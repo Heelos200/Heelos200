@@ -6,3 +6,6 @@
 - 📫 How to reach me: 
   - 💡 [LinkedIn] (https://www.linkedin.com/in/heelos-almoosawi-a67b62172/)
 
+[![Heelos's github stats](https://github-readme-stats.vercel.app/api?username=Heelos200&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heelos200)](https://github.com/Heelos200/github-readme-stats)
